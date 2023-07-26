@@ -1,0 +1,29 @@
+@media(min-width:320px){
+    .card-container{
+        width:100%;
+    }
+    .card-col{
+        width:100%;
+    }
+}
+
+
+@media(min-width:660px){
+    .card-container{
+        width:100%;
+    }
+    .card-col{
+        width:100%;
+    }
+}
+
+
+@media(min-width:1000px){
+    .card-container{
+        width:70%;
+        margin:auto;
+    }
+    .card-col{
+        width:50%;
+    }
+}
